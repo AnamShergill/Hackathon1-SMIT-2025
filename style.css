@@ -20,3 +20,11 @@
     background-color: rgb(174, 238, 131);
     padding: 10px;
   }
+
+  .card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 25px;
+    border: none;
+  }
